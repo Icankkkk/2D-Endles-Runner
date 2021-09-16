@@ -1,2 +1,4 @@
 2D Endles Runner
-Using Unity Engine 
+Platform : windows (64 bit)
+
+Hasil Build nya saya letakan di releases 
